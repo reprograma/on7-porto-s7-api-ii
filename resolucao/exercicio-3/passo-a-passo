@@ -1,0 +1,25 @@
+Models
+1. criar pasta models
+2. criar arquivo .json
+3. importar informações de tarefas
+
+
+Controllers
+1. importar arquivo .json
+2. criar const para guardar função que recebe requisição e envia resposta
+3. enviar resposta :) ao inves de mandar uma mensagem, vamos enviar nosso arquivo .json!
+4. exportar a função!
+
+
+Routes
+1. criar pastas routes
+2. criar arquivo index.js
+3. importar e exportar o router
+4. criar arquivo tarefasRoute.js
+5. copiar rotas que estão no app.js para o tarefasRoute.js
+
+
+Arquivo server
+1. criar um arquivo server.js
+2. definir porta a ouvir o servidor
+

@@ -26,3 +26,8 @@ Essa será a visão da sua pasta LOCAL. Não se esqueça de criar o arquivo .git
 
 
 Não esqueça de inicializar o projeto npm dentro de cada uma dessas branchs!
+
+----> EXTRAS
+Se quiser um desafio, além de pegar todo os dados .json para listar na rota /tarefas, você pode:
+
+Fazer um método para listar tarefas a partir do nome do colaborador (por exemplo, getByNomeColaborador); pelo id (por exmplo, getById) e outros dados específicos do seu .json ou do .json de tarefas que usamos em aula :)
