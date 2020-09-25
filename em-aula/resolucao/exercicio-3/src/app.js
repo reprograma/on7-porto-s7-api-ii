@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
 
-app.listen(3000);
-
 const index = require('./routes/index')
 const tarefas = require('./routes/tarefasRoute')
 
